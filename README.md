@@ -25,4 +25,6 @@ in .env file change the backend path
 finally run frontend 
 - npm start
 
+## SS
 ![image](https://user-images.githubusercontent.com/69781012/210183860-81945cd0-55af-4c70-8558-f987245d15aa.png)
+![image](https://user-images.githubusercontent.com/69781012/210183893-1c21569a-9948-42c2-b9bf-a51a403229ff.png)
