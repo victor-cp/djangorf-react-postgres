@@ -1,4 +1,4 @@
-# djangorf-react-postgres
+# DJANGO RF - REACT - POSTGRES
 A crud implemented with react (front), django rest framework (back), postgres (db)
 
 ## DATABASE
