@@ -12,7 +12,7 @@ Create a Database in Postgres called cruddb or any if you modified backend setti
 ### Requirements
 - install django, djangorestframework, django-cors-headers, psycopg2
 
-And
+And run backend
 - python manage.py runserver
 
 ## FRONTEND
@@ -22,5 +22,5 @@ install dependencies
 
 in .env file change the backend path
 
-run
+finally run frontend 
 - npm start
